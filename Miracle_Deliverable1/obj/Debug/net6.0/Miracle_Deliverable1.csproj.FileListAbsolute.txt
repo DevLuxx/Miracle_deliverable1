@@ -1,0 +1,15 @@
+C:\Users\me\source\repos\Miracle_Deliverable1\Miracle_Deliverable1\bin\Debug\net6.0\Miracle_Deliverable1.exe
+C:\Users\me\source\repos\Miracle_Deliverable1\Miracle_Deliverable1\bin\Debug\net6.0\Miracle_Deliverable1.deps.json
+C:\Users\me\source\repos\Miracle_Deliverable1\Miracle_Deliverable1\bin\Debug\net6.0\Miracle_Deliverable1.runtimeconfig.json
+C:\Users\me\source\repos\Miracle_Deliverable1\Miracle_Deliverable1\bin\Debug\net6.0\Miracle_Deliverable1.dll
+C:\Users\me\source\repos\Miracle_Deliverable1\Miracle_Deliverable1\bin\Debug\net6.0\Miracle_Deliverable1.pdb
+C:\Users\me\source\repos\Miracle_Deliverable1\Miracle_Deliverable1\obj\Debug\net6.0\Miracle_Deliverable1.csproj.AssemblyReference.cache
+C:\Users\me\source\repos\Miracle_Deliverable1\Miracle_Deliverable1\obj\Debug\net6.0\Miracle_Deliverable1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\me\source\repos\Miracle_Deliverable1\Miracle_Deliverable1\obj\Debug\net6.0\Miracle_Deliverable1.AssemblyInfoInputs.cache
+C:\Users\me\source\repos\Miracle_Deliverable1\Miracle_Deliverable1\obj\Debug\net6.0\Miracle_Deliverable1.AssemblyInfo.cs
+C:\Users\me\source\repos\Miracle_Deliverable1\Miracle_Deliverable1\obj\Debug\net6.0\Miracle_Deliverable1.csproj.CoreCompileInputs.cache
+C:\Users\me\source\repos\Miracle_Deliverable1\Miracle_Deliverable1\obj\Debug\net6.0\Miracle_Deliverable1.dll
+C:\Users\me\source\repos\Miracle_Deliverable1\Miracle_Deliverable1\obj\Debug\net6.0\refint\Miracle_Deliverable1.dll
+C:\Users\me\source\repos\Miracle_Deliverable1\Miracle_Deliverable1\obj\Debug\net6.0\Miracle_Deliverable1.pdb
+C:\Users\me\source\repos\Miracle_Deliverable1\Miracle_Deliverable1\obj\Debug\net6.0\Miracle_Deliverable1.genruntimeconfig.cache
+C:\Users\me\source\repos\Miracle_Deliverable1\Miracle_Deliverable1\obj\Debug\net6.0\ref\Miracle_Deliverable1.dll
